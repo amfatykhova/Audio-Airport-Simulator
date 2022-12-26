@@ -1,3 +1,4 @@
 # Audio-Airport-Simulator
 
-[![Watch the video](https://youtu.be/6VocIWbiMdc/maxresdefault.jpg)](https://youtu.be/6VocIWbiMdc)
+Video Tutorial:
+[![Watch the video](https://youtu.be/6VocIWbiMdc/0.jpg)](https://youtu.be/6VocIWbiMdc)
