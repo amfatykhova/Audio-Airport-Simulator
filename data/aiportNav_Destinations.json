@@ -1,0 +1,130 @@
+[
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "T1",
+        "position": {
+            "X": 25,
+            "Y": 70
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "T2",
+        "position": {
+            "X": 100,
+            "Y": 70
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "T3",
+        "position": {
+            "X": 175,
+            "Y": 70
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "T4",
+        "position": {
+            "X": 250,
+            "Y": 70
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "SouthSecurity",
+        "position": {
+            "X": 100,
+            "Y": 200
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "NorthSecurity",
+        "position": {
+            "X": 365,
+            "Y": 200
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "BaggageClaim",
+        "position": {
+            "X": 30,
+            "Y": 225
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "Bathroom",
+        "position": {
+            "X": 250,
+            "Y": 180
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "RideShare",
+        "position": {
+            "X": 400,
+            "Y": 225
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "Starbucks",
+        "position": {
+            "X": 350,
+            "Y": 70
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "McDonalds",
+        "position": {
+            "X": 25,
+            "Y": 115
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "TrainStation",
+        "position": {
+            "X": 370,
+            "Y": 150
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "Brookstone",
+        "position": {
+            "X": 155,
+            "Y": 140
+        }
+    },
+    {
+        "event": "NavPoints",
+        "timestamp": 100,
+        "pointName": "Wendys",
+        "position": {
+            "X": 280,
+            "Y": 140
+        }
+    },
+
+
+]

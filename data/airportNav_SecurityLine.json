@@ -1,0 +1,232 @@
+[
+    {
+        "event": "SecurityLine",
+        "timestamp": 100,
+        "line": "north",
+        "waitTime": 25,
+        "flag": "medium"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 100,
+        "line": "south",
+        "waitTime": 45,
+        "flag": "slow"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 100,
+        "line": "clear",
+        "waitTime": 10,
+        "flag": "fast"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 100,
+        "line": "preCheck",
+        "waitTime": 5,
+        "flag": "fast"
+    },
+
+
+
+
+
+
+    {
+        "event": "SecurityLine",
+        "timestamp": 60000,
+        "line": "north",
+        "waitTime": 60,
+        "flag": "slow"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 60000,
+        "line": "south",
+        "waitTime": 55,
+        "flag": "slow"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 60000,
+        "line": "clear",
+        "waitTime": 28,
+        "flag": "medium"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 60000,
+        "line": "preCheck",
+        "waitTime": 20,
+        "flag": "medium"
+    },
+
+
+
+
+    {
+        "event": "SecurityLine",
+        "timestamp": 120000,
+        "line": "north",
+        "waitTime": 32,
+        "flag": "medium"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 120000,
+        "line": "south",
+        "waitTime": 48,
+        "flag": "slow"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 120000,
+        "line": "clear",
+        "waitTime": 6,
+        "flag": "fast"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 120000,
+        "line": "preCheck",
+        "waitTime": 20,
+        "flag": "medium"
+    },
+
+
+
+
+
+    {
+        "event": "SecurityLine",
+        "timestamp": 180000,
+        "line": "north",
+        "waitTime": 35,
+        "flag": "slow"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 180000,
+        "line": "south",
+        "waitTime": 25,
+        "flag": "medium"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 180000,
+        "line": "clear",
+        "waitTime": 17,
+        "flag": "medium"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 180000,
+        "line": "preCheck",
+        "waitTime": 10,
+        "flag": "fast"
+    },
+
+
+
+
+
+    {
+        "event": "SecurityLine",
+        "timestamp": 240000,
+        "line": "north",
+        "waitTime": 10,
+        "flag": "fast"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 240000,
+        "line": "south",
+        "waitTime": 25,
+        "flag": "medium"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 240000,
+        "line": "clear",
+        "waitTime": 5,
+        "flag": "fast"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 240000,
+        "line": "preCheck",
+        "waitTime": 25,
+        "flag": "medium"
+    },
+
+
+
+
+
+
+    {
+        "event": "SecurityLine",
+        "timestamp": 300000,
+        "line": "north",
+        "waitTime": 60,
+        "flag": "slow"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 300000,
+        "line": "south",
+        "waitTime": 45,
+        "flag": "slow"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 300000,
+        "line": "clear",
+        "waitTime": 20,
+        "flag": "medium"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 300000,
+        "line": "preCheck",
+        "waitTime": 35,
+        "flag": "slow"
+    },
+
+
+
+
+
+
+
+    {
+        "event": "SecurityLine",
+        "timestamp": 360000,
+        "line": "north",
+        "waitTime": 18,
+        "flag": "medium"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 360000,
+        "line": "south",
+        "waitTime": 35,
+        "flag": "slow"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 360000,
+        "line": "clear",
+        "waitTime": 2,
+        "flag": "fast"
+    },
+    {
+        "event": "SecurityLine",
+        "timestamp": 360000,
+        "line": "preCheck",
+        "waitTime": 25,
+        "flag": "medium"
+    }
+
+]
